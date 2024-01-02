@@ -7,3 +7,6 @@
  The features I wanted to add were a delete user, generate new users, a json file that will be automatically updated when there is a modification in the db, check what type of encryption was used if I would add a user that has his password not hashed the same way the rest of the users were and the ability for the server to keep all the changes in the db when the server is shutdown.
 
  Having a more in depth view of how authentication and hashing works would help me better disect and comprehend the intricaties of a secure authentication system on a website. That why I decided to tackle this project.
+
+
+![image](https://github.com/Rjibaraoko/User-Authentication-Token-Authentication/assets/22316233/c35fd61b-dde6-4eea-83cc-149704d46116)
